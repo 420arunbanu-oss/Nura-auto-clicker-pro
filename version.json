@@ -1,7 +1,5 @@
 {
-  "versionName": "12.0.0",
-  "versionCode": 12,
-  "downloadUrl": "https://github.com/420arunbanu-oss/Nura-auto-clicker-pro/releases/latest/download/Nura.auto.clicker._v12.0.0.apk",
-  "changeLog": "Bug fixes and performance improvements",
-  "forceUpdate": false
+  "latestVersionCode": 13,
+  "latestVersionName": "13.0",
+  "apkUrl": "https://github.com/420arunbanu-oss/Nura-auto-clicker-pro/releases/download/V2/auto.clicker.app.v13_v1.0.0.apk"
 }
